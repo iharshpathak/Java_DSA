@@ -1,4 +1,4 @@
-package jav.ds;
+package jav.ds.Array;
 
 public class Array {
 

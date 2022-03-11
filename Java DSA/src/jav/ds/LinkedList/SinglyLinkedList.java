@@ -1,4 +1,4 @@
-package jav.ds;
+package jav.ds.LinkedList;
 
 public class SinglyLinkedList {
     private ListNode head;
